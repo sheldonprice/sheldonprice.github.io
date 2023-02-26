@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/sheldon-wedding-music-performer.jpg") no-repeat;
   background-size: cover; 
  /* background-attachment: fixed;*/
-  background-position: 10% 10%; /*(started out as 10,20)*/
+  background-position: 10% 20%; /*(started out as 10,20)*/
   padding: 300px 0 280px 0;
   position: relative;
 }
