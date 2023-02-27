@@ -103,7 +103,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-position: 10% 20%; /*(started out as 10,20)*/
   padding: 300px 0 280px 0;
   position: center;
-  max-width: 850px;
+  max-width: 600px;
   margin: auto;
   text-align: center;
 
@@ -154,8 +154,10 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
 }
 #intro .block img {
-  padding-left: 40px;
+/*  padding-left: 40px;*/
   width: 100%;
+  padding-top: 50px;
+
 }
 #intro .section-title {
   margin-bottom: 0px;
