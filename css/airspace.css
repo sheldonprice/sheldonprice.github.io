@@ -110,7 +110,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 }
 #slider:before {
-  content: "";
+/*  content: "";*/
   position: absolute;
   left: 0;
   top: 0;
