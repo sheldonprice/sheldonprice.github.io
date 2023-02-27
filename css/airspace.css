@@ -104,6 +104,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 300px 0 280px 0;
   position: center;
   max-width: 600px;
+  height: 600px;
   margin: auto;
   text-align: center;
 
