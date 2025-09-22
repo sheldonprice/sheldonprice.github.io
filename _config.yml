@@ -24,6 +24,10 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
