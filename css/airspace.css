@@ -98,7 +98,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #slider {
   /* background: url("../img/sheldon-wedding-music-performer.jpg") no-repeat; */
-  background: url("../img/promo-resorts-casino-hotel-october-18.jpg") no-repeat;
+  background: url("../img/sheldon-promo.jpg") no-repeat;
   background-size: cover;
   background-position: 10% 20%; /*(started out as 10,20)*/
   padding: 300px 0 280px 0;
@@ -825,25 +825,25 @@ footer .footer-manu ul li a:hover {
     padding: 150px 0 120px 0;
     background-position: center center;
   }
-  
+
   #slider .block h1 {
     font-size: 35px;
     line-height: 45px;
     letter-spacing: 6px;
     padding-bottom: 30px;
   }
-  
+
   #slider .block p {
     font-size: 18px;
     line-height: 30px;
     letter-spacing: 2px;
   }
-  
+
   /* Adjust intro sections for tablet */
   #intro {
     padding: 60px 0;
   }
-  
+
   #intro .block img {
     padding-top: 30px;
   }
@@ -859,46 +859,46 @@ footer .footer-manu ul li a:hover {
     background-position: center center;
     background-size: cover;
   }
-  
+
   #slider .block {
     padding: 0 15px;
   }
-  
+
   #slider .block h1 {
     font-size: 28px;
     line-height: 35px;
     letter-spacing: 3px;
     padding-bottom: 20px;
   }
-  
+
   #slider .block p {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;
   }
-  
+
   /* Adjust container padding for mobile */
   .container {
     padding-left: 15px;
     padding-right: 15px;
   }
-  
+
   /* Adjust intro sections for mobile */
   #intro {
     padding: 40px 0;
   }
-  
+
   #intro .block img {
     padding-top: 20px;
     width: 100%;
     height: auto;
   }
-  
+
   /* Service items mobile layout */
   #service .service-item {
     margin-bottom: 40px;
   }
-  
+
   /* Video container responsive */
   .video-container {
     position: relative;
@@ -906,7 +906,7 @@ footer .footer-manu ul li a:hover {
     height: 0;
     overflow: hidden;
   }
-  
+
   .video-container iframe {
     position: absolute;
     top: 0;
@@ -922,13 +922,13 @@ footer .footer-manu ul li a:hover {
     min-height: 350px;
     padding: 80px 10px 60px 10px;
   }
-  
+
   #slider .block h1 {
     font-size: 24px;
     line-height: 30px;
     letter-spacing: 2px;
   }
-  
+
   #slider .block p {
     font-size: 14px;
     line-height: 20px;
