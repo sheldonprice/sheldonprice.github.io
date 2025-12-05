@@ -103,7 +103,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-position: 10% 20%; /*(started out as 10,20)*/
   padding: 300px 0 280px 0;
   position: center;
-  max-width: 800px;
+  max-width: 600px;
   height: 800px;
   margin: auto;
   text-align: center;
