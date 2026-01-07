@@ -99,14 +99,17 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider {
   /* background: url("../img/sheldon-wedding-music-performer.jpg") no-repeat; */
   background: url("../img/sheldon-promo.jpg") no-repeat;
-  background-size: cover;
-  background-position: 10% 20%; /*(started out as 10,20)*/
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
   padding: 300px 0 280px 0;
-  position: center;
-  max-width: 600px;
-  height: 800px;
-  margin: auto;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  min-height: 600px;
+  margin: 0 auto;
   text-align: center;
+  position: relative;
 }
 #slider:before {
   /*  content: "";*/
@@ -819,11 +822,12 @@ footer .footer-manu ul li a:hover {
 /* Tablet styles */
 @media (max-width: 768px) {
   #slider {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     min-height: 500px;
     padding: 150px 0 120px 0;
     background-position: center center;
+    background-size: contain;
   }
 
   #slider .block h1 {
@@ -852,12 +856,12 @@ footer .footer-manu ul li a:hover {
 /* Mobile styles */
 @media (max-width: 480px) {
   #slider {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     min-height: 400px;
     padding: 100px 15px 80px 15px;
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
   }
 
   #slider .block {
